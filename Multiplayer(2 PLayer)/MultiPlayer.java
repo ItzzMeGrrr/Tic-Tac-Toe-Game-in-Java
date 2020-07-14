@@ -17,7 +17,8 @@ class MultiPlayer {
     static char exit;
     static Scanner sc = new Scanner(System.in);
     
-    public static void cls()//Clears console
+    ///Clears console
+    public static void cls()
     {
         //Clears Screen in java
         try {
